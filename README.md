@@ -1,2 +1,3 @@
-# res-comp
-Projects that use reservoir computing such as Echo State Networks (ESN).
+# Reservoir Computing Projects
+
+Here, I used mostly Echo State Network models for forecasting across different fields.
